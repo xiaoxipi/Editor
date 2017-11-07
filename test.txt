@@ -1,0 +1,5 @@
+The new home for Visual Studio documentation is Visual Studio 2017 Documentation on docs.microsoft.com.
+The latest version of this topic can be found at Visual C++ in Visual Studio.
+The Visual C++ programming language and development tools help you develop native Universal Windows apps, native desktop and server applications, cross-platform libraries that run on Android and iOS as well as Windows, and managed apps that run on the .NET Framework.
+Who is this documentation for?
+This content is for C++ developers who are writing programs.ÿ
